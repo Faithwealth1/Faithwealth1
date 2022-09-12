@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faithwealth1
 - 👀 I’m interested in ... Android dev
-- 🌱 I’m currently learning ..flutter.
-- 💞️ I’m looking to collaborate on .. robotics.
+- 🌱 I’m currently learning .. programming for beginners
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
 <!---
