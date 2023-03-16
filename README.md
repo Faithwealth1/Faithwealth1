@@ -1,5 +1,5 @@
-- 👋 Hi, I’m faith isesele
-- 👀 I’m CURRENTLY ENROLLED IN ALX SOFWARE ENGINEERING PROGRAM,TECH4DEV,AND MICROVERSE
+- 👋 Hi, I’m faith 
+- 👀 I’m CURRENTLY ENROLLED IN ALX,TECH4DEV,AND MICROVERSE
 - 🌱 I’m currently learning .. C PROGRAMMING,HTML/CSS,JAVASCRIPT,PYTHOH AND GIT
 - 💞️ I’m looking to collaborate with OTHER GREAT SOFTWARE ENGINEERS
 - 📫 How to reach me ...faithisesele1@gmail.com
